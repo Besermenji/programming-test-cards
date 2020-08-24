@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/programming-test-cards/static/css/main.5f361e03.chunk.css",
+    "main.js": "/programming-test-cards/static/js/main.2e292ce3.chunk.js",
+    "main.js.map": "/programming-test-cards/static/js/main.2e292ce3.chunk.js.map",
+    "runtime-main.js": "/programming-test-cards/static/js/runtime-main.c130444b.js",
+    "runtime-main.js.map": "/programming-test-cards/static/js/runtime-main.c130444b.js.map",
+    "static/js/2.d11fba5f.chunk.js": "/programming-test-cards/static/js/2.d11fba5f.chunk.js",
+    "static/js/2.d11fba5f.chunk.js.map": "/programming-test-cards/static/js/2.d11fba5f.chunk.js.map",
+    "index.html": "/programming-test-cards/index.html",
+    "precache-manifest.a7b93f1874e40783c446572ff2ded331.js": "/programming-test-cards/precache-manifest.a7b93f1874e40783c446572ff2ded331.js",
+    "service-worker.js": "/programming-test-cards/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/programming-test-cards/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.d11fba5f.chunk.js.LICENSE.txt": "/programming-test-cards/static/js/2.d11fba5f.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/programming-test-cards/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c130444b.js",
+    "static/js/2.d11fba5f.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.2e292ce3.chunk.js"
+  ]
+}
