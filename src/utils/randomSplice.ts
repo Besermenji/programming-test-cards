@@ -1,0 +1,2 @@
+export const randomSplice = (array: any[], itemsCount: number = 0): { updatedArr: any[], extractedItem: any[] } => 
+   ({ updatedArr: array, extractedItem: [...Array(itemsCount)].map(() => array.splice(Math.floor(Math.random() * array.length), 1)) });
